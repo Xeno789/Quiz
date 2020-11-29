@@ -1,0 +1,20 @@
+Kutya,Macska,Zsiráf,Leopárd,Melyik állatnak a leghosszabb a nyaka a felsoroltak közül?,Zsiráf
+Opera,Mozille Firefox,Total Commander,Google Chrome,Melyik nem böngésző?,Total Commander
+Operációs Rendszer,Macintosh szövegszerkesztő,Képfelismerő program,Nyomtatómárka,Mi az a Linux?,Operációs Rendszer
+MKV,MOV,MP3,TIF,Melyik hangfájl kiterjesztés?,MP3
+Internetes társkereső,Internetes kereső,internetes logikai játék,internetes fájl letöltő/cserélő,Milyen oldal a Google?,Internetes kereső
+Archiválandó,Rendszer,Rejtett,Csak olvasható,Mit jelent a READ ONLY fájl?,Csak olvasható
+8-as,3-as,2-es,10-es,A számítógép hányas számrendszert használ?,2-es
+Zenefájl,Képfájl,Word dokumentum,Japán betűk fájl,Mi az a .JPG fájl?,Képfájl
+Beszélgetésre,Internetezésre,Zenehallgatásra,Fotószerkesztésre,Mire való a Skype program?,Beszélgetésre
+Videókamera,Angol focicsapat,Zenekar,Videó megosztó portál,Mi az a YouTube?,Videó megosztó portál
+NeedFul Speeding,Need for Speed,Near Force Spelter,Not for Students,A népszerű "NFS" autós játék mit rövidít?,Need for Speed
+Tej,Méz,Bundás kenyér,Pizza,Mi a kedvenc étele Micimackónak?,Méz
+Negró,Rubofen,Kalmopirin,Tantum verde,Mi a "Torok kéményseprője"?,Negró
+Karr,Grrr,Brrr,Vau,Milyen hangot ad ki a kutya?,Vau
+Fehér,Fekete,Sötétkék,Lila,Melyik szín világos?,Fehér
+Bumeráng,Bögre,Pohár,Csésze,Miből nem lehet inni kávét?,Bumeráng
+Párna,Lepedő,Traktor,Paplan,Melyik tárgy nem az ágyban található általában?,Traktor
+Micimackóra,Szabó Tamásra,új kapura,72-es tátra teára,Fejezd be a közmondást "Néz mint borjú az ...",új kapura
+lopni,adni,kérni,elvenni,Hogy van a közmondás "Jobb ... mint kapni",adni
+fülét,hasát,patáját,fogát,Fejezd be a közmondást "Ajándék lónak ne nézd a ...",fogát
